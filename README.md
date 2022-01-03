@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim Taylor</h1>
 <h3 align="center">A passionate full-stack developer from Michigan, United States.</h3>
 
-- 🔭 I’m currently working on **Timebase a time tracking application**
+- 🔭 I’m currently working on **Social Network a social media app**
 
 - 🌱 I’m currently learning **SQL, next.js, test driven development**
 
